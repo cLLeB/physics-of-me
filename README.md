@@ -7,7 +7,7 @@ Physics of Me turns a phone into a pocket physics lab. Each activity asks a ques
 Built by **The Visionaries of Physics** for the **ISEN Innovation Contest 2026**.
 
 - **Try it in the browser:** https://clleb.github.io/physics-of-me/
-- **Android app:** [physics-of-me.apk](https://clleb.github.io/physics-of-me/physics-of-me.apk) (version 1.3, Android 8.0+)
+- **Android app:** download the APK from the [latest release](https://github.com/cLLeB/physics-of-me/releases/latest) (version 1.3, Android 8.0+)
 
 ## How an activity works
 
